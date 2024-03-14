@@ -1,0 +1,5 @@
+Start Server: dotnet run
+Endpunkt Test: https://localhost:7086/swagger/index.html
+
+Start Frontend: cd Frontend
+                npm start
